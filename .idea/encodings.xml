@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/noticias.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/data/noticias_corporativo.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/data/noticias_noticias.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/data/noticias_programas.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/data/noticias_tecnologia.csv" charset="windows-1252" />
+  </component>
+</project>
